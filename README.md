@@ -1,8 +1,8 @@
-# Manga Web Marker
+# :books: Manga Web Marker :pushpin:
 
 > Interested in Manga? Following multiple series? Find it tiring to manually check sites for available updates for multiple stories? 
 
-This project is intended as a one-stop shop to keep track of any new manga releases you have yet to read. If you are following multiple manga series, you will need to check a few sites each to see if any of them have an updates on any awaited chapter release. Additionally, chapters on each site may not be released consistently and the authors may be on hiatus for a few months. It is a time sink to check so many sites consistently thus this project will put an end to that.
+This project is intended as a one-stop shop to keep track of any new manga releases you have yet to read. If you are following multiple manga series, you will need to check a few sites each to see if any of them have an updates on any awaited chapter release. Additionally, chapters on each site may not be released consistently and the authors may be on hiatus for a few months. It takes a lot of time to check so many sites consistently so this project will put an end to that!
 
 - [Vision](#the-vision)  
 - [Requirements](#requirements)  
