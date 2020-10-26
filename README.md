@@ -1,7 +1,7 @@
 # :books: Manga Web Marker :pushpin:
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
-[![React](<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>)]()  
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 > Interested in Manga? Following multiple series? Find it tiring to manually check sites for available updates for multiple stories? 
