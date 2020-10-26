@@ -4,10 +4,14 @@
 
 This project is intended as a one-stop shop to keep track of any new manga releases you have yet to read. If you are following multiple manga series, you will need to check a few sites each to see if any of them have an updates on any awaited chapter release. Additionally, chapters on each site may not be released consistently and the authors may be on hiatus for a few months. It is a time sink to check so many sites consistently thus this project will put an end to that.
 
+- [Vision](the-vision)  
+- [Requirements](requirements)  
+- [React Docs](create-react-app-documentation)  
+
 ## The Vision
 :black_square_button: Add or delete manga series to follow  
 :black_square_button: Add host of trusted sites per series to track  
-:black_square_button: Accumulate new releases as they are made available (1 link per new chapter) 
+:black_square_button: Accumulate new releases as they are made available (1 link per new chapter)  
 :black_square_button: When link is read, the chapter will drop off and no longer be on the "to read" list  
 :black_square_button: Stats on release frequency and indicator as to whether manga has dropped/ on hiatus  
 
