@@ -1,18 +1,30 @@
 # Manga Web Marker
 
-Interested in Manga? Following multiple series? Find it tiring to manually check sites for available updates for multiple stories? 
+> Interested in Manga? Following multiple series? Find it tiring to manually check sites for available updates for multiple stories? 
 
 This project is intended as a one-stop shop to keep track of any new manga releases you have yet to read. If you are following multiple manga series, you will need to check a few sites each to see if any of them have an updates on any awaited chapter release. Additionally, chapters on each site may not be released consistently and the authors may be on hiatus for a few months. It is a time sink to check so many sites consistently thus this project will put an end to that.
 
 ## The Vision
-[] Add or delete manga series to follow
-[] Add host of trusted sites per series to track
-[] Accumulate new releases as they are made available (1 link per new chapter)
-[] When link is read, the chapter will drop off and no longer be on the "to read" list
-[] Stats on release frequency and indicator as to whether manga has dropped/ on hiatus
+:black_square_button: Add or delete manga series to follow  
+:black_square_button: Add host of trusted sites per series to track  
+:black_square_button: Accumulate new releases as they are made available (1 link per new chapter) 
+:black_square_button: When link is read, the chapter will drop off and no longer be on the "to read" list  
+:black_square_button: Stats on release frequency and indicator as to whether manga has dropped/ on hiatus  
+
+## Requirements
+```cmd
+npm install create-react-app
+```
+
+You can then create single page application
+```cmd
+npx create-react-app my-app
+cd my-app
+npm start
+```  
 
 ## Create React App Documentation
-
+You can read more about [getting started](https://create-react-app.dev/docs/getting-started/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
