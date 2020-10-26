@@ -2,7 +2,6 @@
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()  
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 > Interested in Manga? Following multiple series? Find it tiring to manually check sites for available updates for multiple stories? 
 
@@ -13,6 +12,7 @@ This project is intended as a one-stop shop to keep track of any new manga relea
 - [React Docs](#create-react-app-documentation)  
 
 ## The Vision
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)  
 :black_square_button: Add or delete manga series to follow  
 :black_square_button: Add host of trusted sites per series to track  
 :black_square_button: Accumulate new releases as they are made available (1 link per new chapter)  
